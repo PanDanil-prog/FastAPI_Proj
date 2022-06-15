@@ -1,0 +1,10 @@
+.pytest_cache
+app_example.egg-info
+htmlcov
+.coverage
+.env
+fortest.py
+venv
+.idea
+app/__pycache__
+tests/__pycache__
