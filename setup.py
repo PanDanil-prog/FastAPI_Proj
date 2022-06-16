@@ -12,6 +12,7 @@ setup(
         'minio==7.1.8',
         'SQLAlchemy==1.4.37',
         'pytest==7.1.2',
+        'pytest-cov==3.0.0',
         'requests==2.27.1',
         'psycopg2-binary==2.9.3',
         'pydantic==1.9.1',
